@@ -1,0 +1,26 @@
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.csproj.GenerateResource.Cache
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\bin\Debug\Praca mgr.exe
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\bin\Debug\Praca mgr.pdb
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.exe
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.pdb
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.csprojResolveAssemblyReference.cache
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\bin\Debug\Praca mgr.exe
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\bin\Debug\Praca mgr.pdb
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.csproj.AssemblyReference.cache
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.csproj.GenerateResource.cache
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.csproj.CoreCompileInputs.cache
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.exe
+D:\Dominik\Projekty\Programy\Praca mgr\Praca mgr\obj\x86\Debug\Praca mgr.pdb
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\bin\Debug\Praca mgr.exe
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\bin\Debug\Praca mgr.pdb
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\obj\x86\Debug\Praca mgr.csproj.AssemblyReference.cache
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\obj\x86\Debug\Praca mgr.csproj.GenerateResource.cache
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\obj\x86\Debug\Praca mgr.csproj.CoreCompileInputs.cache
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\obj\x86\Debug\Praca mgr.exe
+D:\Dominik\Projekty\Programy\Praca mgr _optymalizacja\Praca mgr\obj\x86\Debug\Praca mgr.pdb

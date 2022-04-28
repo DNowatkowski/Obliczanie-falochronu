@@ -1,0 +1,7 @@
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\bin\Release\Praca mgr.exe
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\bin\Release\Praca mgr.pdb
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Release\Praca mgr.csproj.GenerateResource.Cache
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Release\Praca mgr.exe
+C:\Users\Dom\documents\visual studio 2010\Projects\Praca mgr\Praca mgr\obj\x86\Release\Praca mgr.pdb
